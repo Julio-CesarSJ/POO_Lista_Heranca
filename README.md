@@ -1,7 +1,9 @@
 Lista de exercícios sobre Herança de Programação Orientada a Objetos.
 
 Curso: Engenharia de Computação
+
 Docente: José Roberto Campos
+
 Discente: Julio Cesar Santos Junior
 
 Observações: 
